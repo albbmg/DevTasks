@@ -55,5 +55,4 @@ DevTasks is a lightweight and efficient team task management system built with P
 Feel free to fork this project, submit issues, or create pull requests!
 
 ## License
-This project is licensed under the MIT License.
-
+This project is licensed under the GPL-3.0 license.
